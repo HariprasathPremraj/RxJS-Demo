@@ -1,0 +1,25 @@
+{
+  "name": "rxjs_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --watch --inline",
+    "postinstall": "typings install"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.7",
+    "webpack-cli": "^2.0.12"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "ts-loader": "^4.0.1",
+    "typescript": "^2.7.2",
+    "typings": "^2.1.1",
+    "webpack": "^4.1.1",
+    "webpack-dev-server": "^3.1.1"
+  }
+}

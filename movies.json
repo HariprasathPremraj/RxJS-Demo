@@ -1,0 +1,10 @@
+{
+    "movies":[
+        {"name":"The theory of everything",
+        "LeadRole":"Eddie Redmayne"},
+        {"name":"Black panther",
+        "LeadRole":"Chadwick Boseman"},
+        {"name":"yeh jawani hai deewani",
+        "LeadRole":"Ranbir"}
+    ]
+}
